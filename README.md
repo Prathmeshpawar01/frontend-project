@@ -1,3 +1,3 @@
 # frontend-project
 this is my frontend project
-Author - Prathmesh Pawar
+Author - Prathmesh Pawar (kashti)
